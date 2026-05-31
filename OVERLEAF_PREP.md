@@ -1,24 +1,26 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opn-physics`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1lN4We9GUDUQV9hvE_tDdPGtsRmjz5Gqp
+## Papers
 
-## Classified Material Counts
+- `papers/Graph Paper.pdf`
+- `papers/Physics Graph Paper.rtf`
+- `papers/Physics plain Graph Paper.doc`
 
-- `papers/`: 3 file(s)
-- `reports/`: 5 file(s)
-- `presentations/`: 0 file(s)
+## Reports
 
-## Conversion Workflow
-
-1. Start with source files in `papers/`, `reports/`, or `presentations/`.
-2. Prefer existing `.tex` files when present.
-3. For `.doc`, `.docx`, `.rtf`, `.ppt`, or `.pptx`, convert into LaTeX/Beamer later and keep the original in its current directory.
-4. Use PDFs as reference outputs, not editable sources, unless no source document exists.
-
-## Move Summary
-
-- Moved into `papers/`: 3 file(s) in this cleanup pass
-- Moved into `reports/`: 5 file(s) in this cleanup pass
-- Moved into `presentations/`: 0 file(s) in this cleanup pass
+- `reports/Conclusion Physics lab report.docx`
+- `reports/Conclusion, physics lab report.docx`
+- `reports/Conclusion-phy-20.docx`
+- `reports/Physics - lab report - 22.docx`
+- `reports/Physics Lab Report-14.docx`
+- `reports/Physics Lab Report-20.docx`
+- `reports/plain (2).doc`
+- `reports/plain.doc`
+- `reports/plain.docx`
+- `reports/plain.pdf`
+- `reports/right plain.docx`
+- `reports/right plain.pdf`
+- `reports/vectors.pdf`
