@@ -1,0 +1,17 @@
+.DS_Store
+Icon*
+Thumbs.db
+*.tmp
+*.swp
+*.log
+*.zip
+*.7z
+*.rar
+*.avi
+*.mp4
+*.mov
+*.MOV
+*.mp3
+*.exe
+*.dmg
+*.cab
