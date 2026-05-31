@@ -1,25 +1,24 @@
-# Physics
-
-Area: Projects-No-Code
+# opn-physics
 
 Drive source: https://drive.google.com/drive/folders/1lN4We9GUDUQV9hvE_tDdPGtsRmjz5Gqp
 
-Purpose: Old Portafolio non-code/publication project evidence. Use this repo for inspectable documents/source; use Drive for bulky original media and archives.
+Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
 
-## Included Top-Level Items
+## Main Directories
 
+- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
+- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
+
+## Top-Level Items
+
+- `papers/` (folder)
+- `presentations/` (folder)
+- `reports/` (folder)
 - `.gitignore` (file)
-- `Conclusion Physics lab report.docx` (file)
-- `Conclusion, physics lab report.docx` (file)
 - `Conclusion-phy-20.docx` (file)
 - `DRIVE_OVERVIEW.md` (file)
-- `Graph Paper.pdf` (file)
 - `IMPORT_NOTES.md` (file)
-- `Physics - lab report - 22.docx` (file)
-- `Physics Graph Paper.rtf` (file)
-- `Physics Lab Report-14.docx` (file)
-- `Physics Lab Report-20.docx` (file)
-- `Physics plain Graph Paper.doc` (file)
 - `plain (2).doc` (file)
 - `plain.doc` (file)
 - `plain.docx` (file)
@@ -28,10 +27,8 @@ Purpose: Old Portafolio non-code/publication project evidence. Use this repo for
 - `right plain.pdf` (file)
 - `vectors.pdf` (file)
 
-## Drive-Only Material
+## Organization Notes
 
-Large videos, archives, installers, and media are kept in Drive.
-
-## Directory Coverage
-
-Every included directory has a `README.md` index.
+- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
+- Each included directory has a `README.md` index.
+- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
